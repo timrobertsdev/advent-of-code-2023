@@ -1,0 +1,9 @@
+{
+    "name": "advent-of-code-2023",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",  // Any generic, debian-based image.
+    "features": {
+        "ghcr.io/devcontainers/features/rust:1": {
+            "version": "latest"
+        },
+    }
+}
